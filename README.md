@@ -10,11 +10,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhaniansyahr" alt="dhaniansyahr" /></a> </p> -->
 
-- 🔭 I currently work as a **Freelance Fullstack Engineer**
+- 🔭 I currently work as a **Software Engineer at PT Gutech Developer Digital**
 
-- 🌱 I’m currently learning at **Syiah Kuala University**
-
-- 👯 I’m looking to collaborate on **Any projects as a Fullstack Engineer**
+- 👯 I’m looking to collaborate on **Any projects as a Fullstack Engineer/Software Engineer**
 
 - 📫 How to reach me **rafliafriza90@gmail.com**
 
